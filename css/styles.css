@@ -1,0 +1,56 @@
+.login_signup_button {
+    margin: 0px 0px 0px 4px;
+}
+
+.bg-blue {
+    background-color: #0d6efd !important;
+}
+
+.bot {
+    color: white;
+    border-color: white;
+}
+
+.btn:hover {
+    background-color: rgb(76, 2, 105);
+}
+
+
+.ft {
+    display: flex;
+    background-color: #0d6efd;
+    height: 10vh;
+}
+
+.footer-para {
+    margin-top: 1%;
+    margin-left: 36%;
+}
+
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.jump {
+    height: 20vh;
+    width: 10vw;
+    background: red;
+}
+
+#questions {
+    min-height: 513px;
+}
+
+.footerpara {
+    color: white;
+}
